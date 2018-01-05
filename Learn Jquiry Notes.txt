@@ -1,1 +1,4 @@
 Learn Jquiry Notes.txt
+
+Download jquire.
+https://jquery.com/download/
